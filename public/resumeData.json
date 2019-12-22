@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name":"Amit Gill",
+    "occupation":"Full Stack Developer",
+    "description":"Dedicated | Adaptive | Creative | Knowledgable",
+    "image":"profilepic.jpg",
+    "bio":" I've largely made a career in the automobile industry, from debugging and mechanical repair as a technician to process quality manager of said vehicles and systems. I have great passion in anything technological from AI to bare bones motor systems. After pursuing education in the digital side of technology, I am well versed in numerous coding languages and frameworks. From constructing web applications and creating websites, to building databases and parsing data from servers, I have great adaptability in the field. ",
+    "contactmessage":"Should you have any questions, inquiries, or network, feel free to message me:",
+    "email": "asglegend@gmail.com",
+    "phone": "510-327-8092",
+    "address":{
+      "street":"",
+      "city":"East Bay Area",
+      "state":"California",
+      "zip": ""
+    },
+    "website": "http://www.legenddev.net",
+    "resumedownload":"http://www.legenddev.net",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/legend240",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/ALegendDev",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/amit-gill-legend/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/thelegenddev",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/asg240",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Below is a visual interpretation of my coherance of different scripting languages / frameworks",
+    "education":[
+      {
+        "school":"University of California Berkeley Extension",
+        "degree":"Computer Coding & Software Development",
+        "graduated":"2019",
+        "description":"A Full Stack Coding and Web Development Program where I learned multiple coding languages and frameworks, how to create web based applications, and how to build back end infrastructure."
+      },
+      {
+        "school":"Diablo Valley College",
+        "degree":"Electrical Engineering",
+        "graduated":"2014",
+        "description":"A program geared to Electronic Engineering where i learned about High Voltage circuits, digital / physical electronic integration, and electrical principles."
+      }
+    ],
+    "work":[
+      {
+        "company":"Cream Co.",
+        "title":"Information Technology Manager / Equipment & Facility Manager",
+        "years":"2019 - Present",
+        "description":""
+      },
+      {
+        "company":"Marin Luxury Cars",
+        "title":"Quality Director",
+        "years":"2018-2019",
+        "description":"As the Quality Control Director, I created processes where quality checks were efficiently logged into proprietary systems. From there data graphs were compiled to gauge the quality of repair and process."
+      },
+      {
+        "company":"Tesla Motors",
+        "title":"End of Line Repair Technician",
+        "years":"2015-2018",
+        "description":"As a Repair Technician, I was the last stop before the vehicle was delivered to clients from the main factory. I had the oppertunity to replace or repair these electric vehicles anywhere from adjusting or replacing physical components to modifying settings and updating firmware."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"95%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"React",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"75%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Google API Book Search",
+        "category":"Book search using Google API in React",
+        "image":"googlebooks.PNG",
+        "url":"https://google-api-books-react.herokuapp.com/"
+      },
+      {
+        "title":"Automotive Article Scraper",
+        "category":"Website that scrapes trending automotive articles",
+        "image":"scraper.PNG",
+        "url":"https://mongoose-scrap.herokuapp.com/"
+      },
+      {
+        "title":"React Portfolio V1",
+        "category":"A React based portfolio",
+        "image":"react.PNG",
+        "url":"https://portfoliox-funny-sink.now.sh/"
+      },
+      {
+        "title":"Refuge-Resource",
+        "category":"Collab: Resource for people recovering from natural disasters",
+        "image":"refuge.PNG",
+        "url":"https://refuge-resource.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
