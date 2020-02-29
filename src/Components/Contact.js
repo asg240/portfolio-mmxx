@@ -85,13 +85,13 @@ class Contact extends Component {
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span><br/>
                      <span>
-                     <a href="mailto:asglegend@gmail.com">asglegend@gmail.com</a>
+                     <a href="mailto:amit@legend.dev">amit@legend.dev</a>
                      </span>
 					   </p>
 				   </div>
 
                <div className="widget widget_tweets">
-                  <h4 className="widget-title">Latest Tweets</h4>
+                  {/* <h4 className="widget-title">Latest Tweets</h4> */}
                   <ul id="twitter">
                      <li>
                         <span>
