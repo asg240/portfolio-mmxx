@@ -23,9 +23,9 @@
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
+        "name":"stackoverflow",
         "url":"https://stackoverflow.com/users/11570578/legenddev",
-        "className":"fa fa-twitter"
+        "className":"fa fa-stack-overflow"
       },
       {
         "name":"linkedin",
