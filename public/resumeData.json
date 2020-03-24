@@ -126,29 +126,29 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Google API Book Search",
-        "category":"Book search using Google API in React",
+        "title":"API Book Search",
+        "category":"A React based book search using Google API.",
         "image":"googlebooks.PNG",
         "url":"https://google-api-books-react.herokuapp.com/",
         "git":"https://github.com/asg240/book-react-search"
       },
       {
         "title":"Automotive Article Scraper",
-        "category":"Website that scrapes trending automotive articles",
+        "category":"Web App that scrapes trending automotive articles",
         "image":"scraper.PNG",
         "url":"https://mongoose-scrap.herokuapp.com/",
         "git":"https://github.com/asg240/scraper"
       },
       {
         "title":"React Portfolio V1",
-        "category":"A React based portfolio",
+        "category":"My first React based portfolio",
         "image":"react.PNG",
         "url":"https://portfoliox-funny-sink.now.sh/",
         "git":"https://github.com/asg240/portfoliox"
       },
       {
         "title":"Refuge-Resource (Team)",
-        "category":"Resource for people recovering from natural disasters",
+        "category":"React based resource for people recovering from natural disasters",
         "image":"refuge.PNG",
         "url":"https://refuge-resource.herokuapp.com/",
         "git":"https://github.com/Zevubu/refuge-resource"

@@ -12,16 +12,16 @@ class Portfolio extends Component {
                <img alt={projects.title} src={projectImage} />
                <div className="overlay">
                   <div className="portfolio-item-meta">
-                 <h5>Live link</h5>
+                 <h5>Click Here For A Live Demo!</h5>
                      <p>{projects.category}</p>
                   </div>
                 </div>
               <div className="link-icon"><i className="fa fa-link"></i></div>
             </a>
-          </div>
+          </div><br></br>
           <div classname="portfolio-item-meta">
             <a href={projects.git} title={projects.git}>
-            <h1>{projects.title} Github</h1>
+            <h1>Repo Link: {projects.title} Github</h1>
            </a>
           </div>
         </div>
