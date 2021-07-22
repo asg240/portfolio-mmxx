@@ -7,7 +7,7 @@
     "bio":" I've largely made a career in the automobile industry, from debugging and mechanical repair as a technician to process quality manager of said vehicles and systems. I have great passion in anything technological from AI to bare bones motor systems. After pursuing education in the digital side of technology, I am well versed in numerous coding languages and frameworks. From constructing web applications and creating websites, to building databases and parsing data from servers, I have great adaptability in the field. ",
     "contactmessage":"Should you have any questions, inquiries, or network, feel free to message me:",
     "email": "amit@legend.dev",
-    "phone": "510-327-8092",
+    "phone": "510-736-3366",
     "address":{
       "street":"Github.com/asg240",
       "city":"Bay Area",
@@ -18,9 +18,14 @@
     "resumedownload":"https://docs.google.com/document/d/1r_i5k4YNnej_B-sUD2KE4yvPp7pKZ1_fA2DWPDlI6V8/edit?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/thelegenddev",
-        "className":"fa fa-facebook"
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/amit-gill-legend/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/asg240",
+        "className":"fa fa-github"
       },
       {
         "name":"stackoverflow",
@@ -28,20 +33,16 @@
         "className":"fa fa-stack-overflow"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/amit-gill-legend/",
-        "className":"fa fa-linkedin"
+        "name":"facebook",
+        "url":"https://www.facebook.com/thelegenddev",
+        "className":"fa fa-facebook"
       },
       {
         "name":"instagram",
         "url":"http://instagram.com/thelegenddev",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/asg240",
-        "className":"fa fa-github"
       }
+  
     ]
   },
   "resume":{
