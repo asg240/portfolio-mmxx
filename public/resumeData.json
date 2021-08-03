@@ -100,7 +100,7 @@
       },
       {
         "name":"CSS",
-        "level":"80%"
+        "level":"85%"
       },
       {
         "name":"React",
@@ -135,7 +135,7 @@
       },
       {
         "title":"Automotive Article Scraper",
-        "category":"Web App that scrapes trending automotive articles",
+        "category":"A Web App that scrapes trending automotive articles",
         "image":"scraper.PNG",
         "url":"https://mongoose-scrap.herokuapp.com/",
         "git":"https://github.com/asg240/scraper"
